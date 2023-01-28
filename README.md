@@ -19,6 +19,8 @@ Anaconda - Python 3.7
   Giving print statement for getting output
 ## PROGRAM:
 ```
+#Developed by : JAYAKRISHNAN L B L
+#Reg no : 22003251
 num_words = 0
 with open('text.txt','r') as file1:
   for i in file1:
